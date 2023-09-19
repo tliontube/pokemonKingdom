@@ -3,7 +3,7 @@ import React from "react";
 function Header(){
     return (
         <header>
-            <div className="content" >
+            <div className="content2" >
                 <h2>Pokemon Kingdom</h2>
                 <h2>Pokemon Kingdom</h2>
             </div>
